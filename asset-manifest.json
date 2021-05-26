@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/open-authenticator/static/css/main.d2156c01.chunk.css",
+    "main.js": "/open-authenticator/static/js/main.9c13dd3e.chunk.js",
+    "main.js.map": "/open-authenticator/static/js/main.9c13dd3e.chunk.js.map",
+    "runtime-main.js": "/open-authenticator/static/js/runtime-main.a5fc38f8.js",
+    "runtime-main.js.map": "/open-authenticator/static/js/runtime-main.a5fc38f8.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/open-authenticator/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.127f34ac.chunk.js": "/open-authenticator/static/js/2.127f34ac.chunk.js",
+    "static/js/2.127f34ac.chunk.js.map": "/open-authenticator/static/js/2.127f34ac.chunk.js.map",
+    "static/js/3.a343face.chunk.js": "/open-authenticator/static/js/3.a343face.chunk.js",
+    "static/js/3.a343face.chunk.js.map": "/open-authenticator/static/js/3.a343face.chunk.js.map",
+    "index.html": "/open-authenticator/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/open-authenticator/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.d2156c01.chunk.css.map": "/open-authenticator/static/css/main.d2156c01.chunk.css.map",
+    "static/js/2.127f34ac.chunk.js.LICENSE.txt": "/open-authenticator/static/js/2.127f34ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5fc38f8.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.127f34ac.chunk.js",
+    "static/css/main.d2156c01.chunk.css",
+    "static/js/main.9c13dd3e.chunk.js"
+  ]
+}
